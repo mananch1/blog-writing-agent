@@ -1,3 +1,5 @@
 .venv
 .env
 *.md
+*test*
+*pycache*
